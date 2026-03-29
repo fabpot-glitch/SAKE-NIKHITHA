@@ -35,12 +35,113 @@ I maintain a 9.4/10.0 CGPA while building production AI applications – When I'
 
 ---
 
+## 🚀 Featured Projects
+
+### 🤖 [Email Spam Detector](https://github.com/fabpot-glitch/Email_spam_detector-)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=render)](https://email-spam-detector-suxr.onrender.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+An intelligent email spam detection system powered by machine learning that achieves **95%+ accuracy** in real-time email classification.
+
+**Key Features:**
+- Real-time spam detection with instant classification
+- TF-IDF vectorization and Naive Bayes/Logistic Regression models
+- RESTful API for seamless integration
+- Deployed on Render with production-ready infrastructure
+- Clean, intuitive web interface for easy testing
+
+**Tech Stack:** Python, Flask, scikit-learn, NLTK, pandas, NumPy
+
+---
+
+### 🌐 [Crowdsourcing Platform for Problem Solving](https://github.com/fabpot-glitch)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+A full-stack collaborative platform enabling users to solve problems together with secure authentication and role-based access control.
+
+**Key Features:**
+- Secure user authentication and authorization system
+- Role-based access control for different user types
+- RESTful API architecture for efficient data handling
+- MySQL database integration for reliable data persistence
+- Real-time collaborative problem-solving interface
+
+**Tech Stack:** React.js, Java, MySQL, RESTful APIs
+
+---
+
+### 🎨 [Responsive Product Landing Page](https://github.com/fabpot-glitch)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+A modern, mobile-responsive landing page built with React and advanced CSS techniques.
+
+**Key Features:**
+- Fully responsive design optimized for all devices
+- Reusable React components for maintainability
+- CSS Grid and Flexbox for flexible layouts
+- Clean, modern visual design with smooth animations
+- Performance-optimized with lazy loading
+
+**Tech Stack:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS
+
+---
+
+### 📊 [React Component Library](https://github.com/fabpot-glitch/React_component)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+A collection of reusable React components built with TypeScript for scalable application development.
+
+**Key Features:**
+- Type-safe components with TypeScript
+- Modular and reusable component architecture
+- Comprehensive documentation and examples
+- Best practices in component design
+
+**Tech Stack:** React.js, TypeScript
+
+---
+
+### 🤖 [Automation Use Case Analyzer](https://github.com/fabpot-glitch/automation-use-case-analyzer)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+An intelligent tool for analyzing and identifying automation opportunities in business workflows.
+
+**Key Features:**
+- Automated workflow analysis
+- Use case identification and recommendations
+- TypeScript for type safety and scalability
+
+**Tech Stack:** TypeScript, Node.js
+
+---
+
+### 📅 [Calendar View Application](https://github.com/fabpot-glitch/calendar-view)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+An interactive calendar application for event management and scheduling.
+
+**Key Features:**
+- Intuitive event creation and management
+- Responsive calendar interface
+- Date and time handling
+
+**Tech Stack:** JavaScript, HTML5, CSS3
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
@@ -87,30 +188,6 @@ I maintain a 9.4/10.0 CGPA while building production AI applications – When I'
 ### Web Servers
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabpot-glitch&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=fabpot-glitch&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fabpot-glitch&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fabpot-glitch&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-</div>
 
 ---
 
