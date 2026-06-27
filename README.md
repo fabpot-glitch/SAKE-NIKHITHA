@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sake%20Nikhitha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=58&descColor=d0ccff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:6C63FF,100:302b63&height=280&section=header&text=Sake%20Nikhitha&fontSize=72&fontColor=ffffff&fontAlignY=45&fontAlign=50&desc=ML%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=65&descColor=c8c2ff&descSize=20&animation=fadeIn&stroke=6C63FF&strokeWidth=2" />
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=fabpot-glitch&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-Fresher%20Roles-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/GPA-9.2%20%2F%2010-6C63FF?style=for-the-badge&logo=academia&logoColor=white" />
 
 </div>
 
@@ -206,12 +216,6 @@ class Nikhitha:
 ---
 
 ## 🏆 Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fabpot-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/fabpot-glitch)
-
-</div>
 
 | 🏅 Achievement | 📋 Details |
 |---|---|
