@@ -1,16 +1,6 @@
 <div align="center">
 
-> **⚠️ To show the banner:** Upload `banner.png` to any GitHub issue as an attachment, copy the URL it gives you, and replace the src below.
-
-<!--
-HOW TO GET YOUR BANNER URL (30 seconds):
-1. Go to any repo → Issues → New Issue
-2. Drag banner.png into the text box
-3. GitHub gives you: ![banner](https://user-images.githubusercontent.com/...)
-4. Copy that URL and paste it as the src below, then close the issue without submitting
--->
-
-<img src="https://raw.githubusercontent.com/fabpot-glitch/fabpot-glitch/main/banner.png" width="100%" alt="Sake Nikhitha Banner"/>
+<img width="100%" src="https://github.com/user-attachments/assets/a81e84e7-e59c-471b-ab87-2a63a0fc5cf4" alt="Sake Nikhitha Banner"/>
 
 </div>
 
