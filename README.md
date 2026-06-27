@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fabpot-glitch/fabpot-glitch/main/banner.svg" width="100%" alt="Sake Nikhitha Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&duration=99999&pause=99999&color=FFFFFF&background=03001C&center=true&vCenter=true&width=900&height=100&lines=Sake+Nikhitha" width="100%" alt="Sake Nikhitha"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=16&duration=99999&pause=99999&color=A78BFA&background=03001C&center=true&vCenter=true&width=900&height=40&lines=Aspiring+AI+%26+ML+Engineer+%C2%B7+Full+Stack+Developer" width="100%" alt="Title"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=13&duration=99999&pause=99999&color=6B7280&background=03001C&center=true&vCenter=true&width=900&height=36&lines=B.Tech+CSE+%C2%B7+Mohan+Babu+University+%C2%B7+GPA+9.2+%C2%B7+Class+of+2027" width="100%" alt="Education"/>
 
 </div>
 
