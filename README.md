@@ -1,6 +1,26 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,25:0a0030,60:1a0560,100:0d0050&height=300&section=header&text=Sake%20Nikhitha&fontSize=70&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Aspiring%20AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=c4b5fd&descSize=18&animation=fadeIn"/>
+<!-- BANNER: Pure SVG, no external service dependency -->
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#03001C"/>
+      <stop offset="40%" style="stop-color:#0f0040"/>
+      <stop offset="100%" style="stop-color:#1a0560"/>
+    </linearGradient>
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7c3aed;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#3b82f6;stop-opacity:0.2"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+  <ellipse cx="150" cy="200" rx="300" ry="80" fill="#7c3aed" opacity="0.15"/>
+  <ellipse cx="750" cy="0" rx="250" ry="70" fill="#3b82f6" opacity="0.12"/>
+  <text x="450" y="82" font-family="'Segoe UI',Arial,sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="3">Sake Nikhitha</text>
+  <text x="450" y="118" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#a78bfa" text-anchor="middle" letter-spacing="1">Aspiring AI &amp; Machine Learning Engineer  ·  Full Stack Developer</text>
+  <line x1="200" y1="135" x2="700" y2="135" stroke="#7c3aed" stroke-width="0.8" opacity="0.6"/>
+  <text x="450" y="158" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#6b7280" text-anchor="middle">B.Tech CSE  ·  Mohan Babu University  ·  GPA 9.2  ·  Class of 2027</text>
+</svg>
 
 </div>
 
