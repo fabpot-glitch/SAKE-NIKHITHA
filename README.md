@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020010,20:05001f,50:0f0040,80:1a006b,100:0d0050&height=320&section=header&text=Sake%20Nikhitha&fontSize=72&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Aspiring%20AI%20%26%20Machine%20Learning%20Engineer%20%20%E2%80%A2%20%20Aspiring%20Full%20Stack%20Developer&descAlignY=57&descColor=a78bfa&descSize=18&animation=fadeIn&stroke=7c3aed&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03001C,25:0a0030,60:1a0560,100:0d0050&height=300&section=header&text=Sake%20Nikhitha&fontSize=70&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Aspiring%20AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=c4b5fd&descSize=18&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=1800&color=8B5CF6&center=true&vCenter=true&width=750&height=40&lines=Building+Intelligent+AI+Solutions+that+Scale+%F0%9F%A7%A0;Turning+Raw+Data+into+Real-World+Impact+%F0%9F%9A%80;RAG+Pipelines+%E2%80%A2+Computer+Vision+%E2%80%A2+Full+Stack+Apps;Final+Year+CSE+%E2%80%A2+Mohan+Babu+University+%E2%80%A2+GPA+9.2%2F10" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=1800&color=8B5CF6&center=true&vCenter=true&width=750&height=40&lines=Building+Intelligent+AI+Solutions+that+Scale+%F0%9F%A7%A0;Turning+Raw+Data+into+Real-World+Impact+%F0%9F%9A%80;RAG+Pipelines+%E2%80%A2+Computer+Vision+%E2%80%A2+Full+Stack+Apps;Final+Year+CSE+%E2%80%A2+Mohan+Babu+University+%E2%80%A2+GPA+9.2" alt="Typing SVG"/>
 
 </div>
 
@@ -14,13 +14,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=fabpot-glitch&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=0d0050)
+![Profile Views](https://komarev.com/ghpvc/?username=fabpot-glitch&label=Profile+Views&color=7c3aed&style=flat-square&labelColor=1a0560)
 &nbsp;&nbsp;
-![Status](https://img.shields.io/badge/🟢%20Status-Open%20to%20Opportunities-22c55e?style=flat-square&labelColor=052e16)
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Opportunities-Available-22c55e?style=flat-square&labelColor=052e16)
 &nbsp;&nbsp;
-![GPA](https://img.shields.io/badge/🎓%20GPA-9.2%20%2F%2010.0-8b5cf6?style=flat-square&labelColor=1e0050)
-&nbsp;&nbsp;
-![Live Apps](https://img.shields.io/badge/🚀%20Deployed-4%20Live%20Apps-3b82f6?style=flat-square&labelColor=0c1a4a)
+![Live Apps](https://img.shields.io/badge/%F0%9F%9A%80%20Deployed-4%20Live%20Apps-3b82f6?style=flat-square&labelColor=0c1a4a)
 
 </div>
 
@@ -79,7 +77,7 @@ Intelligent PDF question-answering system using semantic retrieval and LLM reaso
 
 ✦ Semantic retrieval · Context-aware answers · HF Spaces deployment
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-HF%20Spaces-FF6600?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-HF%20Spaces-FF6600?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co)
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +94,7 @@ Real-time cognitive load and mental fatigue detection system using gaze tracking
 
 ✦ Gaze tracking · Burnout prediction · Privacy-first architecture
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
 
 </td>
 </tr>
@@ -115,7 +113,7 @@ Production-grade ML classifier achieving 95%+ accuracy on real email data. REST 
 
 ✦ 95%+ accuracy · Naive Bayes + LR · REST API · Live on Render
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://email-spam-detector-suxr.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://email-spam-detector-suxr.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
@@ -162,7 +160,7 @@ Full-stack coding platform featuring 42+ DSA problems, live contests, XP-based p
 
 ✦ XP system · Real-time leaderboards · JWT auth · Atlas deployment
 
-[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://render.com)
+[![Live Demo](https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=black)](https://render.com)
 
 </td>
 <td width="50%" valign="top">
@@ -278,21 +276,21 @@ Engineered **12+ Computer Vision and NLP** model architectures using Python, Sci
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabpot-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=020010&title_color=8b5cf6&icon_color=8b5cf6&text_color=a78bfa&ring_color=7c3aed"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabpot-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=03001C&title_color=8b5cf6&icon_color=8b5cf6&text_color=a78bfa&ring_color=7c3aed"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabpot-glitch&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=020010&title_color=8b5cf6&text_color=a78bfa"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabpot-glitch&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=03001C&title_color=8b5cf6&text_color=a78bfa"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fabpot-glitch&theme=tokyonight&hide_border=true&background=020010&stroke=7c3aed&ring=8b5cf6&fire=f87171&currStreakLabel=8b5cf6&sideLabels=a78bfa&dates=6b7280)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fabpot-glitch&theme=tokyonight&hide_border=true&background=03001C&stroke=7c3aed&ring=8b5cf6&fire=f87171&currStreakLabel=8b5cf6&sideLabels=a78bfa&dates=6b7280)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fabpot-glitch&theme=tokyo-night&hide_border=true&bg_color=020010&color=8b5cf6&line=7c3aed&point=a78bfa)](https://github.com/fabpot-glitch)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fabpot-glitch&theme=tokyo-night&hide_border=true&bg_color=03001C&color=8b5cf6&line=7c3aed&point=a78bfa)](https://github.com/fabpot-glitch)
 
 </div>
 
@@ -382,6 +380,6 @@ Engineered **12+ Computer Vision and NLP** model architectures using Python, Sci
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,40:5b21b6,70:3b82f6,100:020010&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:5b21b6,100:03001C&height=120&section=footer"/>
 
 </div>
