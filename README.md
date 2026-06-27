@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/fabpot-glitch/fabpot-glitch/main/banner.svg" alt="Sake Nikhitha — ML Engineer · AI Developer · Full Stack Builder"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:020014,40:0d0630,70:1a0a4a,100:020820&height=280&section=header&text=Sake%20Nikhitha&fontSize=78&fontColor=ffffff&fontAlignY=50&fontAlign=50&desc=ML%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=70&descColor=b4dcff&descSize=21&animation=blinking&stroke=6C63FF&strokeWidth=2" />
 
 <br/>
 
-<a href="https://fabpot-glitch.github.io/my-portfolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=2000&color=6C63FF&center=true&vCenter=true&width=700&height=45&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;LangChain+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TensorFlow;Top+14%2C346+of+356%2C000%2B+%E2%80%94+NCAT+2025;4+Deployed+Apps+%C2%B7+2+Internships+%C2%B7+9.2+GPA" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2800&pause=1800&color=6C63FF&center=true&vCenter=true&width=750&height=45&lines=Aspiring+ML+Engineer+%26+Full+Stack+Developer;LangChain+%C2%B7+FastAPI+%C2%B7+React+%C2%B7+TensorFlow+%C2%B7+RAG;Building+AI+that+actually+ships+%F0%9F%9A%80;4+Deployed+Apps+%C2%B7+2+Internships+%C2%B7+9.2+GPA" alt="Typing SVG" />
 
 <br/><br/>
 
