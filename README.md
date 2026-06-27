@@ -1,211 +1,260 @@
 <div align="center">
-  
-# 👋 Hi, I'm Sake Nikhitha
 
-### Full-Stack Developer | AI/ML Enthusiast | Building Intelligent Solutions
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sake%20Nikhitha&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20Full%20Stack%20Builder&descAlignY=58&descColor=d0ccff&animation=twinkling" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhitha-sake-530449307)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakenikhitha102@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabpot-glitch)
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI+that+actually+works+%F0%9F%9A%80;4+deployed+ML+apps+%E2%80%A2+9.2+GPA+%E2%80%A2+2+internships;LangChain+%E2%80%A2+FastAPI+%E2%80%A2+React+%E2%80%A2+TensorFlow;Top+14%2C346+of+356%2C000%2B+in+NCAT)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhitha-sake-530449307)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakenikhitha102@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabpot-glitch)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://fabpot-glitch.github.io/my-portfolio/)
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🧠 About Me
 
-🚀 **Currently Working On**  
-Full-stack development and AI applications at **Mindguard AI** – Building intelligent web solutions that combine React.js, Java, and machine learning technologies. Recently deployed an AI-powered Email Spam Detection System with 95%+ accuracy using Python, Flask, and scikit-learn. Focused on creating scalable applications that leverage modern frameworks and cloud infrastructure to solve real-world problems.
+```python
+class Nikhitha:
+    def __init__(self):
+        self.name        = "Sake Nikhitha"
+        self.university  = "Mohan Babu University, Tirupati"
+        self.gpa         = 9.2
+        self.graduating  = "May 2027"
+        self.roles       = ["ML Engineer", "AI Developer", "Full Stack Developer"]
+        self.stack       = ["Python", "React.js", "FastAPI", "TensorFlow", "LangChain"]
+        self.deployed    = 4          # production ML apps live right now
+        self.ncat_rank   = 14_346     # out of 356,000+ participants
+        self.open_to     = "Fresher roles in AI/ML & Full Stack"
 
-👥 **Looking to Collaborate On**  
-Innovative full-stack and AI/ML projects – Open to contributing to React.js applications, RESTful API development, and intelligent systems that make a real impact. Particularly interested in open-source initiatives, hackathons, and projects that blend modern web technologies with machine learning to create user-centric solutions.
-
-💡 **Seeking Help With**  
-Advanced system design and cloud-native architectures – Seeking mentorship in AWS best practices, microservices patterns, and production-grade deployment strategies. Also exploring advanced React patterns, database optimization techniques, and DevOps workflows to build more robust, scalable applications.
-
-🌱 **Currently Learning**  
-Advanced React.js ecosystem and ML model deployment – Deepening my expertise through the Infosys Pragati Program while working with cutting-edge technologies. Currently exploring Next.js, advanced state management, serverless architectures, and production ML pipelines to enhance my full-stack and AI capabilities.
-
-💬 **Ask Me About**  
-Building full-stack applications with React.js and Java, designing RESTful APIs, implementing ML models in production, or database architecture with MySQL and MongoDB – I love discussing clean code principles, responsive design, AI integration in web apps, and practical approaches to solving complex engineering challenges.
-
-⚡ **Fun Fact**  
-I maintain a 9.4/10.0 CGPA while building production AI applications – When I'm not coding, I'm exploring new frameworks, participating in technical challenges, or sharing knowledge with peers. I believe the best developers are lifelong learners who build, experiment, and never stop asking "what if?"
+    def currently(self):
+        return [
+            "🔬 Building RAG pipelines with LangChain + FAISS + Groq LLaMA 3.1",
+            "⚡ Deploying ML models via FastAPI on Hugging Face Spaces",
+            "📐 Engineering production-grade React + Node.js applications"
+        ]
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [Email Spam Detector](https://github.com/fabpot-glitch/Email_spam_detector-)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat-square&logo=render)](https://email-spam-detector-suxr.onrender.com/)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An intelligent email spam detection system powered by machine learning that achieves **95%+ accuracy** in real-time email classification.
+### 🤖 [DocuMind AI](https://github.com/fabpot-glitch)
+**Intelligent RAG Chatbot for PDF Q&A**
 
-**Key Features:**
-- Real-time spam detection with instant classification
-- TF-IDF vectorization and Naive Bayes/Logistic Regression models
-- RESTful API for seamless integration
-- Deployed on Render with production-ready infrastructure
-- Clean, intuitive web interface for easy testing
+> LangChain · FAISS · Groq LLaMA 3.1 · FastAPI · Streamlit
 
-**Tech Stack:** Python, Flask, scikit-learn, NLTK, pandas, NumPy
+- Semantic PDF search with context-aware retrieval
+- Deployed on Hugging Face Spaces
+- Drastically reduces time on manual document analysis
 
----
+[![Live](https://img.shields.io/badge/Live%20Demo-HF%20Spaces-orange?style=flat-square&logo=huggingface)](https://huggingface.co)
 
-### 🌐 [Crowdsourcing Platform for Problem Solving](https://github.com/fabpot-glitch)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-A full-stack collaborative platform enabling users to solve problems together with secure authentication and role-based access control.
+### 🧠 [MindGuard AI](https://github.com/fabpot-glitch)
+**Cognitive Load & Mental Fatigue Detection**
 
-**Key Features:**
-- Secure user authentication and authorization system
-- Role-based access control for different user types
-- RESTful API architecture for efficient data handling
-- MySQL database integration for reliable data persistence
-- Real-time collaborative problem-solving interface
+> React.js · FastAPI · Hugging Face · Vercel · Tailwind CSS
 
-**Tech Stack:** React.js, Java, MySQL, RESTful APIs
+- Gaze & distraction detection via computer vision
+- Focus scoring, burnout prediction, productivity tracking
+- Privacy-first architecture — no data leaves your device
 
----
+[![Live](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com)
 
-### 🎨 [Responsive Product Landing Page](https://github.com/fabpot-glitch)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-A modern, mobile-responsive landing page built with React and advanced CSS techniques.
+### ⚔️ [CodeQuest](https://github.com/fabpot-glitch)
+**Full-Stack Competitive Programming Platform**
 
-**Key Features:**
-- Fully responsive design optimized for all devices
-- Reusable React components for maintainability
-- CSS Grid and Flexbox for flexible layouts
-- Clean, modern visual design with smooth animations
-- Performance-optimized with lazy loading
+> React 18 · Node.js · MongoDB · JWT · Chart.js · Render
 
-**Tech Stack:** React.js, JavaScript, HTML5, CSS3, Tailwind CSS
+- 42+ DSA problems with structured learning paths
+- Real-time XP tracking, rankings, and contest leaderboards
+- Secure JWT auth + MongoDB Atlas for scalable deployment
 
----
+[![Live](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render)](https://render.com)
+
+</td>
+<td width="50%" valign="top">
+
+### 📩 [Email Spam Detector](https://github.com/fabpot-glitch/Email_spam_detector-)
+**Production ML Classification System**
+
+> Python · Flask · scikit-learn · NLTK · Render
+
+- **95%+ accuracy** with TF-IDF + Naive Bayes/Logistic Regression
+- RESTful API for seamless third-party integration
+- Live on Render — try it now 👇
+
+[![Live](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=flat-square&logo=render)](https://email-spam-detector-suxr.onrender.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 [React Component Library](https://github.com/fabpot-glitch/React_component)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**TypeScript-First UI Components**
 
-A collection of reusable React components built with TypeScript for scalable application development.
+> React.js · TypeScript
 
-**Key Features:**
-- Type-safe components with TypeScript
-- Modular and reusable component architecture
-- Comprehensive documentation and examples
-- Best practices in component design
+- Fully type-safe, modular component architecture
+- Comprehensive docs with usage examples
+- Built for scalable application development
 
-**Tech Stack:** React.js, TypeScript
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 [Automation Use Case Analyzer](https://github.com/fabpot-glitch/automation-use-case-analyzer)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**AI-Powered Workflow Intelligence**
 
-An intelligent tool for analyzing and identifying automation opportunities in business workflows.
+> TypeScript · Node.js
 
-**Key Features:**
-- Automated workflow analysis
-- Use case identification and recommendations
-- TypeScript for type safety and scalability
+- Identifies automation opportunities in business workflows
+- Intelligent recommendations with type-safe TypeScript core
 
-**Tech Stack:** TypeScript, Node.js
-
----
-
-### 📅 [Calendar View Application](https://github.com/fabpot-glitch/calendar-view)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-An interactive calendar application for event management and scheduling.
-
-**Key Features:**
-- Intuitive event creation and management
-- Responsive calendar interface
-- Date and time handling
-
-**Tech Stack:** JavaScript, HTML5, CSS3
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
-### Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### Web Servers
-![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
----
-
-## 📈 Contribution Graph
-
-[![Nikhitha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabpot-glitch&theme=react-dark&hide_border=true)](https://github.com/fabpot-glitch)
-
----
-
 <div align="center">
 
-### 💼 Open for Opportunities | Let's Build Something Amazing Together!
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
 ---
 
+## 📈 GitHub Stats
+
 <div align="center">
-  <sub>Built with ❤️ by Sake Nikhitha</sub>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabpot-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=6C63FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabpot-glitch&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fabpot-glitch&theme=tokyonight&hide_border=true&background=0d1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fabpot-glitch&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff)](https://github.com/fabpot-glitch)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fabpot-glitch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/fabpot-glitch)
+
+</div>
+
+| 🏅 Achievement | 📋 Details |
+|---|---|
+| 🥇 NCAT National Rank | **#14,346** out of **356,000+** participants |
+| 🤖 Agentic AI Hackathon | Appreciation certificate — IIIT Sri City, 60-hour sprint, 100+ teams |
+| 🎓 Academic Excellence | **9.2 GPA** · 96% in Intermediate board examinations |
+| 🏢 Internship | Infosys Springboard — 100% completion, all 5 training tracks ahead of schedule |
+| 💻 Open Source | 100+ commits across multiple active repositories |
+
+---
+
+## 📜 Certifications
+
+- 🟠 **Anthropic** — AI Fluency Framework & Foundations · Building with Claude API · Introduction to Agent Skills · AI Fluency for Nonprofits & Educators
+- 🔵 **Infosys Springboard** — AI Primer Certificate of Achievement
+- 🟣 **EY Forage** — Technology Risk Virtual Job Simulation
+- 🟢 **Internshala** — Full Stack Development Internship Selection (Unessa Foundation)
+
+---
+
+## 💼 Experience
+
+**Machine Learning Intern @ InternPe** *(Jun – Jul 2026)*
+> Delivered 4 production ML solutions (IPL Predictor, Diabetes Prediction, Car Price Regression, Breast Cancer Classifier). Improved model accuracy by **20%** via EDA on **500K+ records**. Achieved **90%+ accuracy** across all 4 models.
+
+**AI & ML Intern @ Infosys Springboard** *(Jun – Aug 2026)*
+> Engineered 12+ Computer Vision & NLP model architectures using Python, Scikit-learn, and Hugging Face. Completed all 5 structured training tracks ahead of schedule.
+
+---
+
+<div align="center">
+
+### 💬 Open to fresher roles in ML Engineering, AI Development & Full Stack
+
+*"The best way to predict the future is to build it."*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhitha-sake-530449307)
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakenikhitha102@gmail.com)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+
 </div>
