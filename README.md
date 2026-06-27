@@ -1,6 +1,29 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fabpot-glitch/fabpot-glitch/main/banner.svg" alt="Sake Nikhitha — Aspiring AI & ML Engineer | Full Stack Developer" width="100%"/>
+<img src="https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20-blank-03001C?style=for-the-badge" width="100%" height="10" alt=""/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/✦%20SAKE%20NIKHITHA%20✦-03001C?style=for-the-badge&labelColor=03001C&color=03001C" height="50"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Aspiring_AI_%26_ML_Engineer-1a0560?style=for-the-badge&labelColor=1a0560&color=7c3aed" height="32"/>
+<img src="https://img.shields.io/badge/Full_Stack_Developer-0f0040?style=for-the-badge&labelColor=0f0040&color=3b82f6" height="32"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-03001C?style=flat-square&labelColor=03001C&color=03001C" width="100%"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓%20B.Tech%20CSE-Mohan%20Babu%20University-5b21b6?style=flat-square&labelColor=0a0030"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⭐%20GPA-9.2%20%2F%2010.0-7c3aed?style=flat-square&labelColor=0a0030"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📅%20Class%20of-2027-3b82f6?style=flat-square&labelColor=0a0030"/>
+
+<br/><br/>
 
 </div>
 
