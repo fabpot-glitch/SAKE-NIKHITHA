@@ -29,6 +29,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhitha-sake-530449307)
 [![Gmail](https://img.shields.io/badge/Gmail-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakenikhitha102@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Work-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://fabpot-glitch.github.io/my-portfolio/)
+[![Portfolio (Netlify)](https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sake-nikhitha-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-fabpot--glitch-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabpot-glitch)
 
 </div>
@@ -377,6 +378,8 @@ Engineered **12+ Computer Vision and NLP** model architectures using Python, Sci
 [![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sakenikhitha102@gmail.com)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/View%20Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://fabpot-glitch.github.io/my-portfolio/)
+&nbsp;
+[![Portfolio (Netlify)](https://img.shields.io/badge/View%20on%20Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://sake-nikhitha-portfolio.netlify.app/)
 
 <br/>
 
